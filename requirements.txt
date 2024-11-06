@@ -1,0 +1,5 @@
+instagrapi
+pandas
+python-dotenv 
+
+
